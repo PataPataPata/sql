@@ -1,7 +1,7 @@
 # ~
 A veces me da por hacer cosplay de informático y escribo código que no está en otros lados (O que al menos yo no pude encontrar), así que, supongo que tengo que dar algo a cambio para cumplir con las leyes del karma o que se yo.
 
-##MySQL
+## MySql
 * [Las comunas de Santiago] (https://github.com/PataPataPata/sql/blob/master/santiagosql.sql): Solo son las comunas, sin provincias. Y solo de Santiago. Para todo el país está [esta base de datos ya hecha] (https://github.com/ctala/Regiones-Provincias-y-Comunas-de-Chile.).
 
 # Licencia
